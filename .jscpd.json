@@ -1,0 +1,9 @@
+{
+    "threshold": 0,
+    "minTokens": 50,
+    "minLines": 5,
+    "exitCode": 1,
+    "reporters": ["html", "console"],
+    "ignore": ["**/*.md", "**/*.yml"],
+    "gitignore": true
+}

@@ -13,14 +13,9 @@
 
 1. yarn global installed (no lower than 1.22.19 recommended)
 2. node.js global installed (no lower than 18.7.0 recommended)
-3. git global installed
-4. git LFS installed 
 
 #### IDE extensions
 
-- [ESlint (linter)](https://open-vsx.org/extension/dbaeumer/vscode-eslint)
-- [Prettier (formatter)](https://open-vsx.org/extension/esbenp/prettier-vscode)
-- [Gherkin Full Language Support + Formatting + Autocomplete](https://open-vsx.org/extension/alexkrechik/cucumberautocomplete)
 - [Playwright](https://open-vsx.org/extension/ms-playwright/playwright) (allows to launch tests in the editor, and more...), is VScode exclusive but use [VScodium](https://payplug-prod.atlassian.net/wiki/spaces/F/pages/128581677/Workspace+setup), it's the same but without microsoft tracking
 
 #### Setup
